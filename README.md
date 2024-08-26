@@ -19,7 +19,7 @@ python main.py
 You need to run Mysql database and provide following ENV-variables for connection:  
 - DB_HOST (default: '127.0.0.1')
 - DB_USER (default: 'app')
-- DB_PASSWORD (default: 'very_strong')
+- DB_PASSWORD (default: '_very_strong_')
 - DB_NAME (default: 'example')
 
 The applications will always running on http://localhost:5000.  
